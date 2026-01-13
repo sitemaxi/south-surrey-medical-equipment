@@ -32,7 +32,12 @@
     { "@type": "City", "name": "Vancouver", "address": { "@type": "PostalAddress", "addressRegion": "BC", "addressCountry": "CA" } },
     { "@type": "City", "name": "White Rock", "address": { "@type": "PostalAddress", "addressRegion": "BC", "addressCountry": "CA" } }
   ],
-  "sameAs": [
-    "https://www.sitemaxi.com/"
-  ]
+ "sameAs": [
+  "https://www.southsurreymedicalequipment.com",
+  "https://github.com/sitemaxi/south-surrey-medical-equipment",
+  "https://gitlab.com/sitemaxi1/south-surrey-medical-equipment",
+  "https://www.crunchbase.com/organization/free-6764",
+  "https://www.sitemaxi.com"
+]
+
 }
