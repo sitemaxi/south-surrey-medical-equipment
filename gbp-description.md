@@ -1,0 +1,3 @@
+# Google Business Profile Description
+
+South Surrey Medical Equipment is a family-run medical equipment and home healthcare provider offering mobility and accessibility solutions across the Lower Mainland. The company supplies mobility scooters, power wheelchairs, walkers, manual and tilt-in-space wheelchairs, lift chairs, hospital beds, mattresses, bath safety equipment, and patient lifts. Services include product sales, professional delivery, and ongoing equipment support for individuals, caregivers, and healthcare needs in Surrey, White Rock, Langley, Delta, Burnaby, Richmond, Coquitlam, and Vancouver.
