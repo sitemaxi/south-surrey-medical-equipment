@@ -1,0 +1,12 @@
+# South Surrey Medical Equipment
+# https://www.southsurreymedicalequipment.com
+
+This repository contains structured data, schema markup, and documentation
+supporting technical SEO, local search visibility, and entity recognition
+for South Surrey Medical Equipment in British Columbia, Canada.
+
+Primary Service Areas:
+South Surrey, White Rock, Delta, Langley, Burnaby, Richmond, Coquitlam, Vancouver
+
+Managed by SiteMaxi
+https://sitemaxi.com
